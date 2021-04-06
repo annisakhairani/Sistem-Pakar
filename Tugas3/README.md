@@ -1,7 +1,7 @@
-# Sistem-Pakar
-#%% Nama : Annisa Khairani Febrianti
-#%% NPM :1184071
-#%% Kelas : D4 TI 3C
+#Sistem-Pakar
+#Nama : Annisa Khairani Febrianti
+#NPM :1184071
+#Kelas : D4 TI 3C
 Sistem Pakar, Materi mengenai Algoritma Native Bayes
 
 Algoritma Naive Bayes merupakan sebuah metode klasifikasi yang menggunakan metode probabilitas dan statistik yg dikemukakan oleh ilmuwan Inggris yakni Thomas Bayes. 
@@ -22,7 +22,6 @@ cara kerja dari program ini yaitu :
 pertama kita jalankan program tersebut maka program akan meminta kita untuk memasukan data dari attributnya seperti;
 sepallength,sepalwidth,petallength, dan petalwidth setelah itu program akan mengklasifikasikannya kedalam kelas yang sesuai pada data csv yang kita importkan.Adapun penjelasan kodingan nya sebagai berikut:
 
-#%%
 import csv
 #digunakan untuk mengimport file csv
 import numpy as np
