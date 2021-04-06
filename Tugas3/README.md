@@ -1,7 +1,7 @@
-#Sistem-Pakar
-#Nama : Annisa Khairani Febrianti
-#NPM :1184071
-#Kelas : D4 TI 3C
+# Sistem-Pakar
+ Nama : Annisa Khairani Febrianti
+ NPM : 1184071
+ Kelas : D4 TI 3C
 Sistem Pakar, Materi mengenai Algoritma Native Bayes
 
 Algoritma Naive Bayes merupakan sebuah metode klasifikasi yang menggunakan metode probabilitas dan statistik yg dikemukakan oleh ilmuwan Inggris yakni Thomas Bayes. 
